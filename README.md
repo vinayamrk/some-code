@@ -1,5 +1,9 @@
 # some-code
 some code in c
+
+
+
+
 #include<stdio.h>
 int aseries(int);
 int bseries(int);
